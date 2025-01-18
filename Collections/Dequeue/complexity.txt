@@ -1,0 +1,19 @@
+Complexity Analysis:
+
+Methods             Time Complexity   Auxiliary Space
+
+append()                O(1)              O(1)
+appendleft()            O(1)              O(1)
+pop()                   O(1)              O(1)
+popleft()               O(1)              O(1)
+index(ele, beg, end)    O(N)              O(1)
+insert(i, a)            O(N)              O(1)
+remove()                O(N)              O(1)
+count()                 O(N)              O(1)
+len(dequeue)            O(1)              O(1)
+Deque[0]                O(1)              O(1)
+Deque[-1]               O(1)              O(1)
+extend(iterable)        O(K)              O(1)
+extendleft(iterable)    O(K)              O(1)
+reverse()               O(N)              O(1)
+rotate()                O(K)              O(1)

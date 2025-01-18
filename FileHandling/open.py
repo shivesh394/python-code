@@ -1,0 +1,1 @@
+f = open('d:\VScode\Python\FileHandling\input.txt', 'r')

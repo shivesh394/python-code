@@ -1,0 +1,7 @@
+Time Complexity:
+    Get item(Key): O(1)
+    Set item(key, value): O(1)
+    Delete item(key): O(n)
+    Iteration: O(n)
+
+Space Complexity: O(n)
